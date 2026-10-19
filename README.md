@@ -63,4 +63,4 @@ python main.py --input my_poll.csv   # use your own Google Forms export
 The default dataset is **synthetic** (`src/generate_data.py`) with deliberate errors to demonstrate cleaning. Findings describe the simulated data, not real-world opinion.
 
 ## 👤 Author
-**arppitha-ai**
+Arppitha R A
