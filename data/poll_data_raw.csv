@@ -1,0 +1,625 @@
+Timestamp,Age Group,Gender,Region,Preferred Tool,Would Recommend,Satisfaction,Feedback
+2024-04-01 08:34:05,45+,Male,West,Power BI,Yes,4,Super helpful and easy to use for reporting
+2024-04-01 09:36:49,25-34,Male,North,Excel,Yes,0,"Decent, I use it sometimes for team projects"
+2024-04-01 09:40:06,35-44,Male,West,SQL,Yes,2,"Needs improvement, quite confusing"
+2024-04-01 09:40:06,35-44,Male,West,SQL,Yes,2,"Needs improvement, quite confusing"
+2024-04-01 09:54:44,18-24,Female,West,Power BI,Yes,3,It is okay for basic tasks for dashboards
+2024-04-01 10:31:18,18-24,Female,Central,Python,Yes,5,"Great tool, very useful"
+2024-04-01 11:02:02,25-34,Male,West,SQL,Yes,5,"Great tool, very useful"
+2024-04-01 11:06:23,45+,Female,East,R,No,3,It is okay for basic tasks
+2024-04-01 11:46:09,25-34,Male,Central,Excel,Yes,3,It is okay for basic tasks
+2024-04-01 12:18:02,18-24,Female,East,Excel,Yes,3,Average experience overall for team projects
+2024-04-01 13:03:09,25-34,Male,South,Python,No,4,"Love the clear visuals, amazing for reports"
+2024-04-01 15:04:32,45+,Male,East,Excel,no,4,"Love the clear visuals, amazing for reports"
+2024-04-01 15:04:32,45+,Male,East,Excel,no,4,"Love the clear visuals, amazing for reports"
+2024-04-01 15:13:48,25-34,Male,,SQL,Yes,3,Average experience overall for dashboards
+2024-04-01 15:46:42,18-24,Other,East,Excel,Yes,3,Average experience overall for dashboards
+2024-04-01 17:21:03,18-24,Male,Central,Excel,Yes,3,It is okay for basic tasks for dashboards
+2024-04-01 18:24:12,25-34,Female,Central,Excel,Yes,3,Works fine but nothing special for dashboards
+2024-04-01 20:38:37,45+,Male,North,Power BI,No,3,It is okay for basic tasks
+2024-04-01 21:55:39,18-24,Female,South,Tableau,Yes,4,Super helpful and easy to use for team projects
+2024-04-02 09:01:54,35-44,Male,West,Tableau,Yes,4,"Love the clear visuals, amazing for reports"
+2024-04-02 09:32:29,45+,Male,South,Power BI,Yes,4,"Fast and powerful, excellent for analysis for team projects"
+2024-04-02 10:39:18,35-44,Male,Central,Excel,No,2,"Poor documentation, hard to use"
+2024-04-02 11:26:27,25-34,Male,North,Excel,Yes,3,Average experience overall for reporting
+2024-04-02 11:44:36,25-34,Male,East,Power BI,Yes,5,"Fast and powerful, excellent for analysis"
+2024-04-02 12:13:41,18-24,Female,West,Excel,No,3,
+2024-04-02 13:47:59,25-34,Male,West,Power BI,Yes,3,Works fine but nothing special
+2024-04-02 15:45:47,35-44,Male,West,powerbi,No,2,Buggy and expensive
+2024-04-02 16:00:39,45+,Female,North,Python,Yes,5,"Fast and powerful, excellent for analysis for data cleaning"
+2024-04-02 16:02:43,25-34,Female,East,Excel,Yes,3,Works fine but nothing special for dashboards
+2024-04-02 16:16:48,25-34,Female,North,Python,No,,"Poor documentation, hard to use for team projects"
+2024-04-02 16:43:05,18-24,Female,South,Excel,Yes,3,It is okay for basic tasks for team projects
+2024-04-02 18:01:59,25-34,Male,Central,Python,No,,Super helpful and easy to use for dashboards
+2024-04-02 21:43:48,18-24,Male,South, python ,Yes,5,"Fast and powerful, excellent for analysis for team projects"
+2024-04-02 21:43:48,18-24,Male,South, python ,Yes,5,"Fast and powerful, excellent for analysis for team projects"
+2024-04-03 09:47:13,18-24,Male,,Excel,Yes,3,It is okay for basic tasks for dashboards
+2024-04-03 11:25:24,25-34,Female,Central,SQL,No,10,Buggy and expensive for team projects
+2024-04-03 12:53:27,35-44,Female,South,Excel,Yes,4,"Great tool, very useful for reporting"
+2024-04-03 14:38:49,25-34,Male,Central,Python,No,2,"Needs improvement, quite confusing for team projects"
+2024-04-03 16:57:34,18-24,Female,East,Excel,No,3,Works fine but nothing special
+2024-04-03 18:08:27,35-44,Male,West,Tableau,Yes,5,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-03 19:02:33,18-24,Other,North,R,Yes,4,"Great tool, very useful for reporting"
+2024-04-03 19:21:58,25-34,Female,East,Python,Yes,5,Super helpful and easy to use
+2024-04-03 19:42:48,35-44,Female,East,Tableau,No,1,Buggy and expensive
+2024-04-03 20:12:26,18-24,Female,North,Excel,No,3,"Decent, I use it sometimes"
+2024-04-04 08:12:32,25-34,Female,East,R,Yes,2,
+2024-04-04 08:26:10,25-34,Male,East,R,Yes,2,"Complicated setup, frustrating at times"
+2024-04-04 09:12:51,25-34,Male,South,Tableau,Yes,5,"Fast and powerful, excellent for analysis"
+2024-04-04 09:45:16,35-44,Female,South,R,No,3,Average experience overall
+2024-04-04 09:48:14,18-24,Male,Central,Python,Yes,5,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-04 10:14:55,35-44,Female,Central,R,Yes,3,It is okay for basic tasks for reporting
+2024-04-04 10:15:24,25-34,Male,East,Python,Yes,4,Intuitive and smooth experience for dashboards
+2024-04-04 10:26:32,25-34,Female,Central,Python,Yes,4,"Love the clear visuals, amazing for reports for reporting"
+2024-04-04 12:07:13,25-34,Male,West,Excel,Yes,3,Works fine but nothing special for team projects
+2024-04-04 13:37:49,18-24,Female,North,Excel,No,3,Works fine but nothing special for data cleaning
+2024-04-04 13:49:42,35-44,Male,East,Python,Yes,4,"Fast and powerful, excellent for analysis for reporting"
+2024-04-04 15:16:13,18-24,Female,Central,Python,Yes,3,Works fine but nothing special for data cleaning
+2024-04-04 17:49:00,18-24,Other,East,Tableau,Yes,4,"Fast and powerful, excellent for analysis for data cleaning"
+2024-04-04 18:05:58,25-34,Female,West,Power BI,Yes,4,Super helpful and easy to use
+2024-04-04 19:06:19,25-34,Female,South,Power BI,Yes,4,"Fast and powerful, excellent for analysis for team projects"
+2024-04-04 19:06:19,25-34,Female,South,Power BI,Yes,4,"Fast and powerful, excellent for analysis for team projects"
+2024-04-04 19:37:43,25-34,Female,North,R,No,3,It is okay for basic tasks
+2024-04-04 20:05:13,25-34,Male,North,SQL,No,4,Super helpful and easy to use for data cleaning
+2024-04-04 20:23:58,35-44,Male,South,Tableau,Yes,5,Intuitive and smooth experience
+2024-04-04 20:36:42,18-24,Male,North,Tableau,Yes,3,Average experience overall for team projects
+2024-04-04 21:25:58,25-34,Other,Central,Excel,No,3,Average experience overall
+2024-04-04 21:57:15,18-24,Female,North,Power-BI,No,3,
+2024-04-05 08:50:15,18-24,Male,South,Python,Yes,4,"Great tool, very useful"
+2024-04-05 10:51:40,35-44,Male,North,Excel,Yes,4,"Love the clear visuals, amazing for reports"
+2024-04-05 11:12:54,35-44,Male,East,Excel,yes,2,"Complicated setup, frustrating at times for data cleaning"
+2024-04-05 13:02:13,18-24,,South,Tableau,No,4,"Great tool, very useful for reporting"
+2024-04-05 16:10:57,45+,Male,East,Power BI,Yes,3,Average experience overall for team projects
+2024-04-05 16:39:25,35-44,Female,North,SQL,Yes,3,It is okay for basic tasks for team projects
+2024-04-05 18:36:28,18-24,Male,East,Excel,Yes,2,"Needs improvement, quite confusing for team projects"
+2024-04-05 18:44:24,18-24,Female,Central,Python,Yes,5,Super helpful and easy to use for team projects
+2024-04-05 20:52:21,18-24,,West,Excel,Yes,4,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-05 21:08:09,25-34,Male,South,R,Yes,4,"Fast and powerful, excellent for analysis for data cleaning"
+2024-04-06 08:07:45,18-24,,West,POWER BI,Yes,3,
+2024-04-06 08:19:09,35-44,Female,West,Excel,Yes,4,"Great tool, very useful"
+2024-04-06 08:29:12,35-44,Male,East,R,No,3,Average experience overall for reporting
+2024-04-06 09:43:57,35-44,Male,North,SQL,Yes,4,"Great tool, very useful"
+2024-04-06 10:05:35,18-24,Male,South,Python,Yes,3,"Decent, I use it sometimes for dashboards"
+2024-04-06 10:13:20,18-24,Male,South,Python,Yes,4,"Great tool, very useful for reporting"
+2024-04-06 10:13:20,18-24,Male,South,Python,Yes,4,"Great tool, very useful for reporting"
+2024-04-06 10:21:38,35-44,Female,South,Tableau,Yes,4,Super helpful and easy to use for team projects
+2024-04-06 10:21:38,35-44,Female,South,Tableau,Yes,4,Super helpful and easy to use for team projects
+2024-04-06 11:18:37,18-24,Male,North,Python,Yes,4,"Love the clear visuals, amazing for reports for reporting"
+2024-04-06 12:47:58,18-24,Female,Central,Python,Yes,5,Super helpful and easy to use for reporting
+2024-04-06 13:25:30,45+,Female,South,Excel,Yes,4,"Fast and powerful, excellent for analysis"
+2024-04-06 15:05:29,18-24,Male,South,Power BI,Yes,5,"Fast and powerful, excellent for analysis"
+2024-04-06 16:36:35,25-34,Male,South,SQL,Yes,4,"Great tool, very useful for data cleaning"
+2024-04-06 17:30:22,25-34,Female,North,SQL,Yes,5,Super helpful and easy to use for team projects
+2024-04-06 19:20:23,45+,Male,East,Tableau,No,3,Works fine but nothing special for data cleaning
+2024-04-06 20:26:38,18-24,Male,North,Python,Yes,3,Works fine but nothing special
+2024-04-06 20:26:38,18-24,Male,North,Python,Yes,3,Works fine but nothing special
+2024-04-06 21:52:57,35-44,Male,South,Python,Yes,4,"Love the clear visuals, amazing for reports for dashboards"
+2024-04-07 08:05:46,35-44,Female,South,R,Yes,3,"Decent, I use it sometimes for reporting"
+2024-04-07 08:54:29,18-24,Female,East,Python,Yes,4,Super helpful and easy to use
+2024-04-07 09:42:13,45+,Male,Central,Excel,Yes,4,"Fast and powerful, excellent for analysis for reporting"
+2024-04-07 10:28:01,18-24,Male,East,Python,Yes,5,Intuitive and smooth experience
+2024-04-07 10:54:57,35-44,Female,East,Python,Yes,5,"Love the clear visuals, amazing for reports for reporting"
+2024-04-07 13:00:52,35-44,Female,West,Python,Yes,4,"Great tool, very useful for team projects"
+2024-04-07 13:05:35,25-34,Other,North,Tableau,Yes,4,Super helpful and easy to use for dashboards
+2024-04-07 13:11:05,18-24,Female,North,Excel,Yes,4,"Fast and powerful, excellent for analysis"
+2024-04-07 13:20:54,18-24,Female,South,Python,Yes,2,"Complicated setup, frustrating at times"
+2024-04-07 13:24:57,35-44,Male,Central,Excel,Yes,5,"Love the clear visuals, amazing for reports for reporting"
+2024-04-07 13:34:16,18-24,,North,Excel,Yes,2,"Poor documentation, hard to use for reporting"
+2024-04-07 14:11:22,18-24,Female,Central,Python,Yes,4,Super helpful and easy to use for data cleaning
+2024-04-07 15:51:50,25-34,Male,,Excel,No,3,Works fine but nothing special for dashboards
+2024-04-07 16:20:13,35-44,Female,,SQL,No,3,"Decent, I use it sometimes for data cleaning"
+2024-04-07 16:23:09,25-34,Male,West,Python,Yes,4,Intuitive and smooth experience for reporting
+2024-04-07 18:11:51,18-24,Female,West,Python,Yes,4,"Great tool, very useful"
+2024-04-07 20:27:56,18-24,Male,South,PYTHON,No,,"Love the clear visuals, amazing for reports"
+2024-04-07 20:44:21,18-24,Male,North,Excel,Yes,3,Works fine but nothing special for dashboards
+2024-04-08 08:44:48,45+,Male,South,Tablaeu?,Yes,4,Super helpful and easy to use for data cleaning
+2024-04-08 08:48:10,18-24,Female,West,SQL,Yes,4,Super helpful and easy to use for reporting
+2024-04-08 08:53:58,18-24,Male,West,Excel,Yes,4,"Love the clear visuals, amazing for reports for team projects"
+2024-04-08 09:25:37,18-24,Male,North,Python,Y,4,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-08 09:25:37,18-24,Male,North,Python,Y,4,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-08 10:15:11,45+,Female,East,Power BI,Yes,5,Super helpful and easy to use
+2024-04-08 10:15:11,45+,Female,East,Power BI,Yes,5,Super helpful and easy to use
+2024-04-08 10:18:21,18-24,Male,South,Power BI,No,4,Intuitive and smooth experience
+2024-04-08 10:48:28,18-24,Female,South,Excel,No,5,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-08 12:13:43,25-34,Female,East,Tableau,Yes,5,"Love the clear visuals, amazing for reports for team projects"
+2024-04-08 12:30:34,35-44,Female,North,Excel,Yes,4,"Love the clear visuals, amazing for reports for reporting"
+2024-04-08 12:39:03,18-24,Male,North,Python,Yes,4,Intuitive and smooth experience
+2024-04-08 12:45:51,25-34,Other,South,Tableau,Yes,4,Intuitive and smooth experience
+2024-04-08 14:37:30,25-34,Female,South,Python,Yes,5,Super helpful and easy to use for dashboards
+2024-04-08 15:34:04,35-44,Female,West,Tableau,Yes,4,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-08 15:34:04,35-44,Female,West,Tableau,Yes,4,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-08 17:37:14,45+,Female,East,Tableau,Yes,3,"Decent, I use it sometimes for reporting"
+2024-04-08 19:44:08,18-24,Female,West,Power BI,no,3,Works fine but nothing special
+2024-04-08 20:01:00,25-34,Female,South,Excel,Yes,4,Super helpful and easy to use for team projects
+2024-04-08 20:01:15,18-24,,Central,Python,No,3,"Decent, I use it sometimes for data cleaning"
+2024-04-08 20:18:43,35-44,Male,West,Python,Yes,4,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-08 20:50:07,25-34,Female,East,Excel,Yes,4,"Fast and powerful, excellent for analysis"
+2024-04-09 08:43:19,35-44,Male,East,powerbi,Yes,5,Intuitive and smooth experience
+2024-04-09 08:57:03,25-34,Male,Central,Excel,Yes,5,Super helpful and easy to use
+2024-04-09 09:02:11,18-24,Other,South,Python,Yes,2,Too slow and difficult to learn for team projects
+2024-04-09 09:04:48,25-34,Male,East,Python,Yes,3,"Decent, I use it sometimes"
+2024-04-09 12:13:13,18-24,Female,East,Python,No,4,Intuitive and smooth experience for dashboards
+2024-04-09 12:48:40,35-44,Male,North,excel ,No,2,Too slow and difficult to learn for data cleaning
+2024-04-09 12:53:59,18-24,Female,East,Python,No,2,"Poor documentation, hard to use for reporting"
+2024-04-09 14:04:04,35-44,Female,South,Python,Yes,4,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-09 14:09:15,25-34,Female,South,Tableau,Yes,4,"Great tool, very useful"
+2024-04-09 16:17:16,25-34,Male,North,Python,Yes,4,Intuitive and smooth experience for reporting
+2024-04-09 16:24:42,18-24,Female,North,Python,No,4,Intuitive and smooth experience
+2024-04-09 17:09:07,25-34,Female,Central,Excel,Yes,2,Buggy and expensive
+2024-04-09 17:33:07,35-44,Female,Central,R,No,4,Super helpful and easy to use
+2024-04-09 17:36:39,18-24,Male,Central,Python,Yes,3,It is okay for basic tasks for dashboards
+2024-04-09 18:00:13,18-24,Female,West,Excel,Yes,4,"Love the clear visuals, amazing for reports for dashboards"
+2024-04-09 20:17:50,35-44,Female,Central,Excel,Yes,2,"Needs improvement, quite confusing"
+2024-04-09 20:18:27,25-34,Female,West,Power BI,No,2,"Poor documentation, hard to use for reporting"
+2024-04-09 21:44:22,35-44,Other,South,Python,Yes,5,
+2024-04-09 21:49:15,35-44,Female,North,Power BI,Yes,3,Average experience overall
+2024-04-10 10:19:58,45+,Female,South,Python,Yes,4,Intuitive and smooth experience for team projects
+2024-04-10 10:56:59,25-34,Female,West,Excel,No,four,Average experience overall for dashboards
+2024-04-10 11:31:07,25-34,Male,West,Excel,Yes,5,"Love the clear visuals, amazing for reports"
+2024-04-10 11:51:38,18-24,Other,East,Python,Yes,4,Intuitive and smooth experience for team projects
+2024-04-10 12:26:18,35-44,Male,South,Excel,Yes,,It is okay for basic tasks
+2024-04-10 13:30:49,18-24,Female,East,POWER BI,No,3,It is okay for basic tasks for team projects
+2024-04-10 14:38:09,35-44,Female,North,R,No,2,"Needs improvement, quite confusing for team projects"
+2024-04-10 15:32:58,35-44,Female,South,SQL,Yes,4,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-10 16:07:18,35-44,Male,South,Excel,Yes,3,"Decent, I use it sometimes for reporting"
+2024-04-10 16:07:57,18-24,Male,East,Tableau,Yes,5,"Fast and powerful, excellent for analysis for reporting"
+2024-04-10 16:22:30,18-24,Male,South,Python,Yes,2,Buggy and expensive for data cleaning
+2024-04-10 16:25:13,35-44,Female,East,Power BI,Yes,5,"Great tool, very useful for dashboards"
+2024-04-10 16:35:26,18-24,Male,South,Python,Yes,5,"Great tool, very useful for data cleaning"
+2024-04-10 16:48:27,35-44,Female,East,Excel,Yes,3,Average experience overall for reporting
+2024-04-10 17:11:17,18-24,Female,South,Power BI,Yes,5,Intuitive and smooth experience
+2024-04-10 18:13:35,45+,Female,North,Excel,Yes,3,It is okay for basic tasks for dashboards
+2024-04-10 19:05:36,18-24,Female,South,Python,Yes,4,Super helpful and easy to use for team projects
+2024-04-10 20:47:58,25-34,Female,North,Python,Yes,4,"Great tool, very useful for data cleaning"
+2024-04-10 21:51:33,25-34,Other,North,Excel,No,1,"Complicated setup, frustrating at times"
+2024-04-11 08:06:15,25-34,Male,West,Python,No,4,"Fast and powerful, excellent for analysis for reporting"
+2024-04-11 08:14:43,25-34,Male,West,Python,No,3,It is okay for basic tasks
+2024-04-11 09:23:09,25-34,Female,North,SQL,No,4,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-11 09:26:36,18-24,Male,West,SQL,Yes,4,"Great tool, very useful for dashboards"
+2024-04-11 11:12:08,18-24,Female,North,R,Yes,2,Buggy and expensive for reporting
+2024-04-11 11:18:48,18-24,Other,East,Python,Yes,5,Intuitive and smooth experience for team projects
+2024-04-11 12:34:02,25-34,Male,North,Python,Yes,2,Too slow and difficult to learn for data cleaning
+2024-04-11 12:39:33,18-24,Female,West,Tableau,Yes,3,It is okay for basic tasks
+2024-04-11 13:15:28,45+,Female,East,Tableau,Yes,3,It is okay for basic tasks
+2024-04-11 14:32:57,25-34,Female,North,SQL,No,3,Average experience overall for team projects
+2024-04-11 15:02:40,35-44,Other,West,Excel,Yes,5,
+2024-04-11 15:46:37,18-24,Male,West,Excel,No,4,Intuitive and smooth experience
+2024-04-11 16:48:47,45+,Male,,Excel,Yes,4,Super helpful and easy to use for data cleaning
+2024-04-11 17:00:30,25-34,Male,South,Power-BI,Yes,5,Intuitive and smooth experience for data cleaning
+2024-04-11 17:06:08,18-24,Male,West,powerbi,Yes,5,"Fast and powerful, excellent for analysis"
+2024-04-11 17:16:15,25-34,Male,East,Python,Yes,5,Intuitive and smooth experience for team projects
+2024-04-11 18:45:11,25-34,Male,East,Python,No,3,It is okay for basic tasks for team projects
+2024-04-11 19:11:11,35-44,Female,South,Python,No,3,Average experience overall
+2024-04-11 19:24:31,18-24,Female,Central,Python,Yes,5,"Fast and powerful, excellent for analysis for reporting"
+2024-04-11 19:24:31,18-24,Female,Central,Python,Yes,5,"Fast and powerful, excellent for analysis for reporting"
+2024-04-11 19:33:23,35-44,Female,East,Python,Yes,5,Intuitive and smooth experience for data cleaning
+2024-04-12 08:09:52,18-24,Male,West,Python,Yes,4,"Great tool, very useful"
+2024-04-12 08:16:43,25-34,Female,West,Tableau,Yes,3,"Decent, I use it sometimes for data cleaning"
+2024-04-12 08:16:43,25-34,Female,West,Tableau,Yes,3,"Decent, I use it sometimes for data cleaning"
+2024-04-12 10:06:52,45+,Male,Central,SQL,Yes,5,Intuitive and smooth experience
+2024-04-12 10:11:02,35-44,Male,West,Power BI,Yes,3,
+2024-04-12 11:19:50,18-24,Male,North,Excel,Yes,3,"Decent, I use it sometimes for team projects"
+2024-04-12 11:45:43,25-34,Male,East,R,No,4,"Fast and powerful, excellent for analysis for team projects"
+2024-04-12 11:59:00,18-24,Female,North,Python,No,3,It is okay for basic tasks
+2024-04-12 12:02:20,25-34,Male,Central,Excel,No,2,"Needs improvement, quite confusing for team projects"
+2024-04-12 12:29:32,18-24,Male,West,Python,Yes,5,"Love the clear visuals, amazing for reports"
+2024-04-12 12:58:30,18-24,Male,East,Tableau,Y,5,"Fast and powerful, excellent for analysis for team projects"
+2024-04-12 13:53:29,18-24,Female,North,R,Yes,2,"Complicated setup, frustrating at times for data cleaning"
+2024-04-12 13:54:13,25-34,Female,East,SQL,Yes,4,Super helpful and easy to use for data cleaning
+2024-04-12 14:47:21,25-34,Female,East,Python,Yes,5,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-12 17:10:58,35-44,Male,East,R,Yes,5,Super helpful and easy to use
+2024-04-12 18:08:46,25-34,Female,East,sql,Yes,5,"Fast and powerful, excellent for analysis"
+2024-04-12 18:34:10,45+,Female,North,Power BI,Yes,5,
+2024-04-12 19:11:46,25-34,Female,,R,Yes,4,Intuitive and smooth experience
+2024-04-12 19:27:33,18-24,Male,West,Python,Yes,3,Average experience overall
+2024-04-12 19:47:02,25-34,Male,Central,Python,Yes,3,It is okay for basic tasks for reporting
+2024-04-12 19:59:46,45+,Female,East,Excel,Yes,3,Works fine but nothing special for data cleaning
+2024-04-12 20:53:08,25-34,Male,North,Power BI,Yes,2,"Poor documentation, hard to use for dashboards"
+2024-04-12 21:04:26,18-24,Male,South,Python,Yes,four,Intuitive and smooth experience
+2024-04-13 08:38:59,35-44,Female,West,Power BI,Yes,3,Works fine but nothing special for reporting
+2024-04-13 09:30:51,18-24,Male,East,Python,Yes,5,
+2024-04-13 10:37:48,35-44,Female,Central,Python,Yes,3,"Decent, I use it sometimes for dashboards"
+2024-04-13 12:04:39,18-24,Male,South,Excel,Yes,3,Works fine but nothing special for data cleaning
+2024-04-13 12:07:25,18-24,Female,East,Excel,Yes,4,"Fast and powerful, excellent for analysis"
+2024-04-13 13:04:11,35-44,Male,South,Excel,Yes,3,"Decent, I use it sometimes for data cleaning"
+2024-04-13 13:46:54,45+,Female,East,Power BI,Yes,4,"Fast and powerful, excellent for analysis"
+2024-04-13 14:18:27,25-34,Male,East,Power BI,Yes,4,Intuitive and smooth experience
+2024-04-13 14:18:27,25-34,Male,East,Power BI,Yes,4,Intuitive and smooth experience
+2024-04-13 15:04:48,45+,Female,South,Python,Yes,5,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-13 15:29:26,25-34,Male,West,R,No,3,Average experience overall for data cleaning
+2024-04-13 15:44:00,35-44,Male,Central,Tablaeu?,No,2,"Poor documentation, hard to use for reporting"
+2024-04-13 15:59:33,18-24,Female,Central,Power BI,Yes,3,Average experience overall for dashboards
+2024-04-13 16:34:10,18-24,Male,North,Python,Yes,5,"Love the clear visuals, amazing for reports"
+2024-04-13 16:53:24,18-24,Male,South,Python,No,3,"Decent, I use it sometimes for data cleaning"
+2024-04-13 17:06:39,35-44,Male,,R,No,2,"Poor documentation, hard to use for reporting"
+2024-04-13 17:59:32,45+,Male,East,Tableau,Yes,4,
+2024-04-13 18:55:42,25-34,Female,North,Power BI,No,4,Super helpful and easy to use
+2024-04-13 19:35:27,18-24,Male,East,SQL,No,2,"Needs improvement, quite confusing for dashboards"
+2024-04-13 20:19:00,25-34,Female,West,Power BI,Yes,5,"Fast and powerful, excellent for analysis for reporting"
+2024-04-13 20:51:40,45+,Female,South,Python,Yes,4,"Fast and powerful, excellent for analysis for data cleaning"
+2024-04-14 08:46:36,35-44,Male,South,Python,Yes,4,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-14 10:27:16,25-34,Male,North,Excel,Yes,3,Average experience overall for dashboards
+2024-04-14 11:58:47,18-24,Male,North,Python,Yes,4,Super helpful and easy to use for dashboards
+2024-04-14 12:27:18,35-44,Female,West,Python,Yes,4,"Fast and powerful, excellent for analysis"
+2024-04-14 14:03:16,25-34,Female,Central,Excel,No,3,"Decent, I use it sometimes for data cleaning"
+2024-04-14 14:04:32,18-24,Male,West,Power BI,Yes,4,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-14 14:05:18,25-34,Male,Central,Power-BI,Yes,4,"Fast and powerful, excellent for analysis"
+2024-04-14 16:00:37,18-24,Female,Central,R,No,3,It is okay for basic tasks for data cleaning
+2024-04-14 16:43:48,18-24,Female,East,Tableau,Yes,5,Intuitive and smooth experience for data cleaning
+2024-04-14 18:21:43,25-34,Female,South,Python,No,4,"Fast and powerful, excellent for analysis"
+2024-04-14 18:21:43,25-34,Female,South,Python,No,4,"Fast and powerful, excellent for analysis"
+2024-04-14 18:28:10,18-24,Female,East,Power BI,no,5,"Great tool, very useful"
+2024-04-14 18:45:04,25-34,Female,South,Python,Yes,4,
+2024-04-14 19:18:26,25-34,Male,West,Python,N,3,"Decent, I use it sometimes for dashboards"
+2024-04-14 20:30:08,18-24,Male,North,Power BI,N,5,Intuitive and smooth experience for team projects
+2024-04-14 20:44:57,35-44,Male,East,Excel,Yes,4,Intuitive and smooth experience
+2024-04-14 21:03:46,18-24,Female,South,Power BI,Yes,4,Super helpful and easy to use for reporting
+2024-04-14 21:46:49,18-24,Female,North,Python,Yes,3,It is okay for basic tasks for reporting
+2024-04-15 08:33:12,18-24,Female,Central,Python,Yes,5,"Fast and powerful, excellent for analysis for data cleaning"
+2024-04-15 09:38:18,25-34,Male,North,Excel,Yes,3,It is okay for basic tasks for dashboards
+2024-04-15 10:30:17,18-24,Male,East,Power BI,Yes,5,"Love the clear visuals, amazing for reports for dashboards"
+2024-04-15 10:39:38,35-44,Female,North,Excel,Yes,3,Average experience overall for reporting
+2024-04-15 10:52:13,18-24,Female,South,SQL,Yes,4,"Love the clear visuals, amazing for reports for reporting"
+2024-04-15 11:50:44,25-34,Male,East,Python,Yes,5,"Great tool, very useful"
+2024-04-15 15:16:26,18-24,Female,East,Power-BI,Yes,3,"Decent, I use it sometimes for reporting"
+2024-04-15 15:41:23,18-24,Female,South,Power BI,Yes,5,Super helpful and easy to use for data cleaning
+2024-04-15 15:49:13,35-44,Female,East,SQL,Yes,4,"Love the clear visuals, amazing for reports"
+2024-04-15 16:49:01,18-24,Male,North,Excel,Yes,5,Super helpful and easy to use for dashboards
+2024-04-15 17:12:45,25-34,Female,North,Python,Yes,5,Super helpful and easy to use for data cleaning
+2024-04-15 17:49:13,18-24,Female,East,Tableau,Yes,4,"Love the clear visuals, amazing for reports for dashboards"
+2024-04-15 19:46:20,35-44,Male,West,SQL,Yes,5,"Great tool, very useful"
+2024-04-15 21:10:35,18-24,Male,West,Python,Yes,5,Intuitive and smooth experience for data cleaning
+2024-04-16 09:55:50,25-34,Other,North, python ,Yes,4,Super helpful and easy to use
+2024-04-16 10:13:37,25-34,Male,North,Excel,Yes,3,It is okay for basic tasks for dashboards
+2024-04-16 10:46:27,25-34,Female,East,Excel,No,3,Average experience overall for dashboards
+2024-04-16 11:03:37,35-44,Female,North,Excel,No,4,"Great tool, very useful for dashboards"
+2024-04-16 13:11:10,25-34,Female,East,Python,Yes,5,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-16 13:56:59,18-24,Female,North,Tableau,N,4,Super helpful and easy to use
+2024-04-16 15:19:30,18-24,Male,North,Tableau,Yes,5,Super helpful and easy to use for data cleaning
+2024-04-16 15:23:05,18-24,Male,East,R,No,2,
+2024-04-16 16:34:12,25-34,Male,North,Python,Yes,3,It is okay for basic tasks
+2024-04-16 16:38:58,45+,Female,Central,Power BI,Yes,4,Intuitive and smooth experience for team projects
+2024-04-16 16:50:36,25-34,Male,East,R,Yes,4,"Great tool, very useful for reporting"
+2024-04-16 17:39:04,35-44,Female,East,Python,Yes,5,Super helpful and easy to use for data cleaning
+2024-04-16 18:32:49,25-34,Male,South,Tableau,Yes,5,"Love the clear visuals, amazing for reports for reporting"
+2024-04-16 18:50:10,18-24,Female,West,R,Yes,2,"Poor documentation, hard to use"
+2024-04-16 18:58:29,25-34,Female,West,Python,Yes,4,"Love the clear visuals, amazing for reports for team projects"
+2024-04-16 20:41:37,18-24,Female,,R,No,3,It is okay for basic tasks for dashboards
+2024-04-16 20:58:10,25-34,Male,East,Python,Yes,4,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-16 21:11:31,25-34,Other,North,Excel,Yes,3,Average experience overall for team projects
+2024-04-17 08:18:59,18-24,Male,South,Excel,Yes,4,Super helpful and easy to use
+2024-04-17 08:53:56,25-34,Male,West,Python,Yes,5,"Love the clear visuals, amazing for reports"
+2024-04-17 09:41:17,18-24,Male,North,Power BI,No,2,Too slow and difficult to learn
+2024-04-17 11:07:16,25-34,Other,North,Excel,No,3,It is okay for basic tasks for data cleaning
+2024-04-17 11:52:02,35-44,Female,East,Excel,Yes,4,"Fast and powerful, excellent for analysis for team projects"
+2024-04-17 12:31:33,18-24,Female,North,SQL,Yes,3,It is okay for basic tasks for reporting
+2024-04-17 12:45:53,35-44,Female,Central,Tableau,Yes,5,"Great tool, very useful for data cleaning"
+2024-04-17 12:53:08,25-34,Male,North,R,Yes,2,"Needs improvement, quite confusing for data cleaning"
+2024-04-17 13:38:07,35-44,Female,South,Python,Yes,2,Buggy and expensive for reporting
+2024-04-17 13:46:16,35-44,Female,North,SQL,No,4,"Great tool, very useful for data cleaning"
+2024-04-17 14:28:57,25-34,Female,West,Power BI,Yes,5,Super helpful and easy to use
+2024-04-17 14:28:57,25-34,Female,West,Power BI,Yes,5,Super helpful and easy to use
+2024-04-17 14:48:50,25-34,Male,Central,Julia,Yes,3,"Decent, I use it sometimes"
+2024-04-17 14:50:41,35-44,Male,South,Power BI,No,3,It is okay for basic tasks for data cleaning
+2024-04-17 15:06:54,45+,Male,North,Excel,Yes,4,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-17 15:08:23,18-24,Male,South,Julia,Yes,5,"Fast and powerful, excellent for analysis"
+2024-04-17 16:08:20,45+,Male,South,Excel,Yes,4,"Great tool, very useful"
+2024-04-17 17:10:41,25-34,Male,North,Python,Yes,4,Super helpful and easy to use for dashboards
+2024-04-17 17:24:33,18-24,Female,East,Power BI,Yes,5,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-17 18:40:54,18-24,Male,West,Python,Yes,5,"Fast and powerful, excellent for analysis"
+2024-04-17 18:56:24,25-34,Female,West,Python,Yes,5,"Great tool, very useful for dashboards"
+2024-04-17 20:05:52,35-44,Female,East,Power BI,Yes,5,Intuitive and smooth experience for data cleaning
+2024-04-18 08:19:32,25-34,Female,North,Tableau,No,4,
+2024-04-18 08:21:26,18-24,Female,West,Python,Yes,5,"Fast and powerful, excellent for analysis"
+2024-04-18 09:07:54,25-34,Female,East,SQL,Yes,4,"Love the clear visuals, amazing for reports for reporting"
+2024-04-18 09:29:57,18-24,Male,West,Excel,Yes,5,Super helpful and easy to use for data cleaning
+2024-04-18 09:41:02,45+,Male,North,excel ,Yes,3,Works fine but nothing special
+2024-04-18 11:49:02,35-44,Male,West,SQL,No,3,"Decent, I use it sometimes for data cleaning"
+2024-04-18 11:55:38,35-44,Male,North,SQL,Yes,5,Intuitive and smooth experience for data cleaning
+2024-04-18 12:05:14,25-34,Female,West,Power BI,Yes,4,"Fast and powerful, excellent for analysis for data cleaning"
+2024-04-18 13:00:17,18-24,Other,Central,Tableau,Yes,5,Intuitive and smooth experience
+2024-04-18 13:44:29,18-24,Male,South,Python,Yes,4,"Fast and powerful, excellent for analysis"
+2024-04-18 13:46:03,18-24,Female,West,Python,Yes,4,"Fast and powerful, excellent for analysis for reporting"
+2024-04-18 14:35:45,25-34,Female,North,Python,Yes,5,"Fast and powerful, excellent for analysis for reporting"
+2024-04-18 15:17:22,25-34,Male,North,Excel,Yes,3,It is okay for basic tasks for reporting
+2024-04-18 16:36:05,35-44,Female,West,Excel,No,3,It is okay for basic tasks
+2024-04-18 17:16:04,25-34,Female,North,Python,No,3,Average experience overall for dashboards
+2024-04-18 17:16:51,18-24,Female,Central,Excel,No,2,"Complicated setup, frustrating at times"
+2024-04-18 17:43:49,18-24,Female,East,Excel,No,3,It is okay for basic tasks for team projects
+2024-04-18 17:50:48,18-24,Female,South,Python,No,3,It is okay for basic tasks for data cleaning
+2024-04-18 17:58:07,18-24,Male,West,Tableau,Yes,4,"Love the clear visuals, amazing for reports"
+2024-04-18 19:12:33,35-44,Male,North,Excel,No,3,Average experience overall for team projects
+2024-04-18 19:30:52,35-44,Male,East,SQL,No,3,It is okay for basic tasks for team projects
+2024-04-18 19:37:27,25-34,Female,North,Tableau,Yes,3,Average experience overall
+2024-04-18 20:01:17,25-34,Male,Central,Python,Yes,4,"Fast and powerful, excellent for analysis"
+2024-04-18 20:43:32,25-34,Female,North,Python,No,2,"Needs improvement, quite confusing for dashboards"
+2024-04-18 21:07:22,35-44,Female,Central,Python,Yes,4,"Fast and powerful, excellent for analysis for data cleaning"
+2024-04-18 21:08:27,18-24,Male,North,powerbi,No,3,Average experience overall for reporting
+2024-04-19 09:38:01,18-24,Male,South,R,Yes,3,It is okay for basic tasks for reporting
+2024-04-19 10:09:08,45+,Female,West,Python,Yes,5,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-19 10:35:16,35-44,Male,East,Excel,Yes,4,"Fast and powerful, excellent for analysis"
+2024-04-19 10:57:25,35-44,Male,West,SQL,Yes,5,"Great tool, very useful for reporting"
+2024-04-19 11:22:35,18-24,Male,East,Excel,No,3,Average experience overall for dashboards
+2024-04-19 13:47:44,25-34,Male,South,Excel,Yes,3,Works fine but nothing special for dashboards
+2024-04-19 14:08:36,25-34,Female,West,Excel,Yes,3,Works fine but nothing special for reporting
+2024-04-19 14:51:45,18-24,Female,West,SQL,No,2,Too slow and difficult to learn for dashboards
+2024-04-19 15:41:41,45+,Female,South,Python,Yes,5,Super helpful and easy to use for dashboards
+2024-04-19 16:12:33,35-44,Other,East,R,Yes,3,"Decent, I use it sometimes for team projects"
+2024-04-19 16:19:57,25-34,Male,East,Python,Yes,3,It is okay for basic tasks
+2024-04-19 16:26:14,18-24,Female,Central,Power BI,No,3,"Decent, I use it sometimes"
+2024-04-19 16:49:23,18-24,Male,South,Power BI,Yes,5,"Love the clear visuals, amazing for reports"
+2024-04-19 16:58:08,25-34,Other,East,SQL,No,5,"Love the clear visuals, amazing for reports"
+2024-04-19 17:28:07,25-34,Male,North,Python,No,3,
+2024-04-19 17:31:33,25-34,Male,East,Excel,No,3,"Decent, I use it sometimes for dashboards"
+2024-04-19 17:41:16,18-24,Male,West,R,Yes,4,"Love the clear visuals, amazing for reports for dashboards"
+2024-04-19 17:56:32,35-44,Male,North,Julia,N,5,
+2024-04-19 18:29:00,35-44,Male,South,Excel,Yes,4,Intuitive and smooth experience for reporting
+2024-04-19 18:51:09,18-24,Male,South,Python,Yes,5,"Fast and powerful, excellent for analysis for team projects"
+2024-04-19 19:26:41,35-44,Female,South,SQL,Yes,4,Super helpful and easy to use for reporting
+2024-04-19 20:00:04,45+,Female,North,Excel,Yes,3,Works fine but nothing special for data cleaning
+2024-04-19 20:17:24,45+,Male,North,Excel,Yes,5,"Love the clear visuals, amazing for reports"
+2024-04-19 20:26:34,18-24,Male,North,Python,Yes,5,"Fast and powerful, excellent for analysis"
+2024-04-19 21:06:16,45+,Female,East,Python,Yes,4,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-19 21:43:44,25-34,Female,East,SQL,Yes,4,"Love the clear visuals, amazing for reports"
+2024-04-20 10:39:40,25-34,Male,North,Python,Yes,4,"Great tool, very useful for reporting"
+2024-04-20 11:22:13,35-44,Female,East,Power BI,Yes,4,Super helpful and easy to use
+2024-04-20 12:45:34,35-44,Male,South,Python,Yes,4,"Fast and powerful, excellent for analysis"
+2024-04-20 12:45:34,35-44,Male,South,Python,Yes,4,"Fast and powerful, excellent for analysis"
+2024-04-20 12:46:44,25-34,Female,North,Python,Yes,four,Super helpful and easy to use
+2024-04-20 13:05:18,18-24,Female,East,Python,yes,4,"Great tool, very useful for team projects"
+2024-04-20 14:51:26,18-24,Male,East,Tableau,Yes,4,"Great tool, very useful"
+2024-04-20 15:10:52,35-44,Female,East,Python,No,4,Super helpful and easy to use for dashboards
+2024-04-20 15:14:58,18-24,Female,North,Excel,No,3,It is okay for basic tasks
+2024-04-20 15:25:03,25-34,Male,North,Tableau,Yes,2,"Poor documentation, hard to use for dashboards"
+2024-04-20 17:18:31,25-34,Female,Central,powerbi,No,2,Buggy and expensive for data cleaning
+2024-04-20 17:38:01,45+,Female,South,Python,Yes,4,"Great tool, very useful for team projects"
+2024-04-20 17:51:09,18-24,,North,Python,Yes,3,It is okay for basic tasks for reporting
+2024-04-20 18:59:05,18-24,Female,South,Python,Yes,4,
+2024-04-20 19:01:33,25-34,Female,South,Excel,No,4,"Love the clear visuals, amazing for reports"
+2024-04-20 19:19:45,18-24,Male,South,Python,No,4,Super helpful and easy to use for data cleaning
+2024-04-20 19:41:44,18-24,Female,East,Python,Yes,4,Intuitive and smooth experience for reporting
+2024-04-20 19:53:23,25-34,Female,Central,Power BI,Yes,2,"Needs improvement, quite confusing for reporting"
+2024-04-20 20:24:25,25-34,Female,East,Excel,Yes,3,Average experience overall
+2024-04-20 20:51:21,18-24,Female,West,Power BI,Yes,4,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-21 08:34:58,18-24,Female,West,R,Yes,3,Works fine but nothing special for team projects
+2024-04-21 09:48:50,45+,Male,South,Python,No,5,"Fast and powerful, excellent for analysis for data cleaning"
+2024-04-21 11:04:00,35-44,Female,West,R,Yes,4,"Great tool, very useful"
+2024-04-21 11:14:23,35-44,Other,West,Excel,Yes,,Super helpful and easy to use for reporting
+2024-04-21 11:14:23,35-44,Other,West,Excel,Yes,,Super helpful and easy to use for reporting
+2024-04-21 11:24:42,18-24,Female,North,Python,No,3,It is okay for basic tasks for data cleaning
+2024-04-21 11:50:42,25-34,Male,East,Python,yes,5,"Fast and powerful, excellent for analysis for team projects"
+2024-04-21 12:28:19,45+,Male,Central,R,Yes,5,Super helpful and easy to use for reporting
+2024-04-21 13:16:42,18-24,Male,South,Excel,Yes,3,Works fine but nothing special for reporting
+2024-04-21 13:27:19,18-24,Male,West,Python,Yes,5,"Love the clear visuals, amazing for reports for dashboards"
+2024-04-21 13:42:39,18-24,Male,South,powerbi,No,3,It is okay for basic tasks for data cleaning
+2024-04-21 14:04:49,45+,Female,West,Power BI,No,4,"Great tool, very useful for dashboards"
+2024-04-21 14:20:18,25-34,Male,West,Python,Yes,5,"Love the clear visuals, amazing for reports for dashboards"
+2024-04-21 14:36:58,18-24,Female,West,R,Yes,4,Super helpful and easy to use for reporting
+2024-04-21 14:43:57,45+,Male,West,Python,Yes,4,"Love the clear visuals, amazing for reports for dashboards"
+2024-04-21 17:37:22,18-24,Male,West,Power BI,Yes,3,Average experience overall
+2024-04-21 18:00:17,25-34,Male,,Python,N,5,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-21 18:30:22,25-34,Female,Central,Power BI,Yes,5,"Fast and powerful, excellent for analysis"
+2024-04-21 18:51:21,35-44,Female,East,SQL,Yes,5,Intuitive and smooth experience for reporting
+2024-04-21 20:16:55,18-24,Male,West,Python,Yes,3,It is okay for basic tasks for reporting
+2024-04-21 20:22:38,25-34,Male,South,Tableau,Yes,4,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-21 20:54:24,25-34,Female,East,Python,No,3,"Decent, I use it sometimes for dashboards"
+2024-04-22 08:40:51,25-34,Female,North,Python,Yes,5,"Fast and powerful, excellent for analysis for reporting"
+2024-04-22 09:28:54,35-44,Female,North,Excel,Yes,2,"Needs improvement, quite confusing for dashboards"
+2024-04-22 10:50:22,18-24,Male,West,Tableau,No,3,Works fine but nothing special
+2024-04-22 13:06:03,18-24,Female,Central,Excel,No,3,"Decent, I use it sometimes for team projects"
+2024-04-22 13:12:44,35-44,Male,North,Python,Yes,5,Super helpful and easy to use for team projects
+2024-04-22 14:07:27,25-34,Male,Central, python ,No,3,Works fine but nothing special
+2024-04-22 15:26:27,25-34,Male,West,Power BI,No,3,It is okay for basic tasks
+2024-04-22 16:09:01,45+,Male,South,SQL,Yes,4,Super helpful and easy to use for data cleaning
+2024-04-22 16:23:58,25-34,Female,North,Python,Yes,5,Intuitive and smooth experience for dashboards
+2024-04-22 16:29:10,35-44,Male,West,Power BI,Yes,4,"Fast and powerful, excellent for analysis for team projects"
+2024-04-22 16:31:43,35-44,Female,West,POWER BI,Yes,5,Intuitive and smooth experience
+2024-04-22 16:50:03,25-34,Other,West,Tableau,Yes,5,Intuitive and smooth experience for reporting
+2024-04-22 16:53:40,25-34,Female,West,Power BI,Yes,4,"Fast and powerful, excellent for analysis for team projects"
+2024-04-22 17:12:07,18-24,Female,Central,Excel,Yes,2,"Complicated setup, frustrating at times for team projects"
+2024-04-22 17:49:34,25-34,,East,Python,Yes,4,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-22 18:44:09,18-24,,South,Python,Yes,0,"Great tool, very useful for team projects"
+2024-04-22 19:46:57,45+,Female,Central,Excel,No,3,Average experience overall for data cleaning
+2024-04-22 20:02:16,25-34,Female,North,Python,Yes,4,"Fast and powerful, excellent for analysis for reporting"
+2024-04-22 21:06:28,18-24,Female,South,Excel,No,2,Buggy and expensive for dashboards
+2024-04-22 21:51:19,25-34,Female,South,Excel,No,3,"Decent, I use it sometimes"
+2024-04-23 08:47:16,25-34,Female,East,SQL,No,2,Too slow and difficult to learn
+2024-04-23 09:09:51,35-44,Female,North,Power BI,Yes,4,Super helpful and easy to use for reporting
+2024-04-23 10:21:48,35-44,Male,East,Excel,No,2,"Poor documentation, hard to use for dashboards"
+2024-04-23 10:45:27,25-34,Female,East,SQL,Yes,5,"Great tool, very useful for team projects"
+2024-04-23 10:47:43,45+,Female,North,Excel,Yes,2,"Poor documentation, hard to use for dashboards"
+2024-04-23 11:03:14,18-24,Male,West,Excel,Yes,3,It is okay for basic tasks for reporting
+2024-04-23 11:25:43,35-44,Male,North,Excel,Yes,2,Too slow and difficult to learn for team projects
+2024-04-23 11:25:54,18-24,Female,West,R,No,3,It is okay for basic tasks
+2024-04-23 12:47:49,35-44,Male,East,Tableau,Yes,4,Super helpful and easy to use
+2024-04-23 12:56:40,18-24,Female,North,Excel,Yes,2,Too slow and difficult to learn
+2024-04-23 14:00:33,35-44,Male,West,Excel,Yes,4,Intuitive and smooth experience for team projects
+2024-04-23 14:30:41,25-34,Male,Central,Python,Yes,4,"Love the clear visuals, amazing for reports for reporting"
+2024-04-23 14:49:53,35-44,Female,West,SQL,Yes,,"Great tool, very useful for data cleaning"
+2024-04-23 14:49:53,35-44,Female,West,SQL,Yes,,"Great tool, very useful for data cleaning"
+2024-04-23 16:35:23,18-24,Male,West,Excel,yes,2,"Needs improvement, quite confusing for reporting"
+2024-04-23 17:02:38,35-44,Male,East,R,Yes,,"Decent, I use it sometimes for reporting"
+2024-04-23 18:37:26,35-44,Male,South,Python,Yes,5,"Fast and powerful, excellent for analysis"
+2024-04-23 19:37:12,25-34,Female,West,Python,Yes,5,Super helpful and easy to use for reporting
+2024-04-23 20:16:57,18-24,Female,East,Python,Yes,3,"Decent, I use it sometimes for reporting"
+2024-04-23 20:18:18,25-34,Male,South,Power BI,Yes,4,Super helpful and easy to use
+2024-04-23 20:22:59,25-34,Male,North,Python,Yes,4,"Love the clear visuals, amazing for reports for team projects"
+2024-04-23 21:59:04,18-24,Female,East,Tableau,No,2,"Needs improvement, quite confusing"
+2024-04-23 21:59:45,25-34,Female,South,SQL,Yes,5,"Love the clear visuals, amazing for reports"
+2024-04-23 21:59:57,45+,Female,Central,Python,Yes,4,Super helpful and easy to use for team projects
+2024-04-24 08:36:50,25-34,Male,North,Excel,No,3,Average experience overall
+2024-04-24 08:59:28,18-24,Female,North,Python,Y,5,Super helpful and easy to use for data cleaning
+2024-04-24 10:05:46,18-24,Female,North,Power BI,No,4,"Great tool, very useful"
+2024-04-24 10:31:06,25-34,Female,East,PYTHON,Yes,5,Intuitive and smooth experience for reporting
+2024-04-24 10:50:03,18-24,Male,West,Tableau,Yes,4,"Great tool, very useful for reporting"
+2024-04-24 11:05:32,25-34,Male,West,Power BI,No,4,"Love the clear visuals, amazing for reports for dashboards"
+2024-04-24 11:17:21,18-24,Female,Central,Power BI,No,4,Super helpful and easy to use for data cleaning
+2024-04-24 12:21:01,25-34,Male,South,Tableau,Yes,4,Intuitive and smooth experience for team projects
+2024-04-24 13:45:28,35-44,Female,South,Excel,Yes,5,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-24 13:55:10,18-24,Female,North,Tableau,Yes,3,"Decent, I use it sometimes for dashboards"
+2024-04-24 13:59:42,18-24,,East,R,Yes,2,Buggy and expensive
+2024-04-24 14:18:47,18-24,Female,North,Python,Yes,5,"Fast and powerful, excellent for analysis for reporting"
+2024-04-24 15:43:27,25-34,Female,North,Excel,Yes,,It is okay for basic tasks
+2024-04-24 15:45:18,18-24,Female,North,SQL,No,2,"Needs improvement, quite confusing for team projects"
+2024-04-24 16:18:38,18-24,Male,North,Excel,No,3,Works fine but nothing special
+2024-04-24 16:46:23,18-24,Male,East,R,No,2,"Needs improvement, quite confusing"
+2024-04-24 18:47:58,25-34,Female,North,Tableau,Yes,4,"Fast and powerful, excellent for analysis"
+2024-04-24 19:17:36,25-34,Female,East,Tableau,No,2,"Needs improvement, quite confusing"
+2024-04-24 19:26:07,18-24,Female,South,Python,Y,4,"Love the clear visuals, amazing for reports for team projects"
+2024-04-25 09:07:17,45+,Female,South,Power BI,Yes,4,"Love the clear visuals, amazing for reports"
+2024-04-25 09:59:30,18-24,Other,North,Python,Yes,5,"Fast and powerful, excellent for analysis"
+2024-04-25 11:09:01,25-34,Male,East,R,No,1,Buggy and expensive
+2024-04-25 11:29:23,25-34,Female,East,SQL,No,4,"Great tool, very useful"
+2024-04-25 12:07:59,35-44,Male,East,Tableau,Yes,5,"Fast and powerful, excellent for analysis for reporting"
+2024-04-25 12:27:19,18-24,Other,North,Python,Yes,2,Too slow and difficult to learn for data cleaning
+2024-04-25 12:32:08,18-24,Male,North,Tableau,No,3,"Decent, I use it sometimes for data cleaning"
+2024-04-25 13:13:35,35-44,Female,North,SQL,No,2,Too slow and difficult to learn for reporting
+2024-04-25 13:34:43,18-24,Female,North,Excel,No,3,Works fine but nothing special
+2024-04-25 14:22:30,45+,Female,West,sql,No,4,Super helpful and easy to use
+2024-04-25 14:48:32,45+,Female,North,excel ,Yes,4,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-25 15:10:32,18-24,Male,Central,SQL,Yes,5,"Love the clear visuals, amazing for reports for dashboards"
+2024-04-25 15:17:05,25-34,Male,South,Power-BI,Yes,5,Super helpful and easy to use
+2024-04-25 15:17:48,45+,Male,East,Python,Yes,3,Average experience overall
+2024-04-25 16:03:25,18-24,Male,North,Python,Yes,5,Intuitive and smooth experience
+2024-04-25 16:21:20,25-34,Male,East,Excel,No,3,It is okay for basic tasks
+2024-04-25 16:26:10,35-44,Female,North,Tableau,Yes,5,"Great tool, very useful for data cleaning"
+2024-04-25 16:41:50,25-34,Female,East,Tableau,No,3,It is okay for basic tasks for reporting
+2024-04-25 16:51:48,18-24,Male,Central,SQL,No,2,Too slow and difficult to learn for team projects
+2024-04-25 17:27:09,25-34,Female,South,Excel,Yes,3,"Decent, I use it sometimes"
+2024-04-25 17:40:16,25-34,Male,West,Power BI,Yes,4,"Great tool, very useful for data cleaning"
+2024-04-25 17:40:16,25-34,Male,West,Power BI,Yes,4,"Great tool, very useful for data cleaning"
+2024-04-25 18:02:32,25-34,Male,South,R,No,1,"Poor documentation, hard to use"
+2024-04-25 18:23:07,18-24,Male,North,Excel,Yes,5,"Love the clear visuals, amazing for reports for team projects"
+2024-04-25 19:47:57,35-44,Female,Central,Excel,Yes,4,Super helpful and easy to use
+2024-04-25 19:58:09,18-24,Male,North,Python,No,3,Works fine but nothing special for reporting
+2024-04-25 20:13:09,45+,Female,South,Power BI,No,3,Average experience overall for data cleaning
+2024-04-25 21:42:39,45+,Female,East,Excel,No,4,"Love the clear visuals, amazing for reports for team projects"
+2024-04-25 21:43:24,45+,Female,West,Python,No,4,Super helpful and easy to use for dashboards
+2024-04-26 08:12:54,18-24,Female,South,Python,No,4,Super helpful and easy to use for dashboards
+2024-04-26 10:01:43,18-24,Female,South,Python,No,5,Super helpful and easy to use
+2024-04-26 10:06:37,18-24,Female,East,Python,Yes,4,"Fast and powerful, excellent for analysis"
+2024-04-26 10:21:26,25-34,Female,East,Python,Yes,4,Intuitive and smooth experience
+2024-04-26 10:24:16,45+,Female,South,Python,Yes,5,"Great tool, very useful for dashboards"
+2024-04-26 11:50:56,35-44,Male,North,SQL,Yes,4,Intuitive and smooth experience for reporting
+2024-04-26 12:19:29,25-34,Other,North,Tableau,Yes,4,"Great tool, very useful for dashboards"
+2024-04-26 12:30:03,18-24,Male,North,Excel,Yes,4,"Fast and powerful, excellent for analysis for reporting"
+2024-04-26 12:48:39,18-24,Male,North,SQL,Yes,3,It is okay for basic tasks for data cleaning
+2024-04-26 13:31:39,18-24,Female,West,R,No,2,"Poor documentation, hard to use"
+2024-04-26 13:34:40,18-24,Male,Central,Power BI,No,3,Works fine but nothing special for dashboards
+2024-04-26 14:21:20,35-44,Male,Central,Python,Yes,5,Intuitive and smooth experience
+2024-04-26 15:55:01,45+,Female,West,SQL,No,3,Average experience overall for reporting
+2024-04-26 16:30:29,18-24,Male,South,Excel,Yes,2,"Complicated setup, frustrating at times for team projects"
+2024-04-26 17:03:15,25-34,Male,,Python,Yes,4,Super helpful and easy to use
+2024-04-26 17:33:17,25-34,Other,South,Python,Yes,4,"Great tool, very useful"
+2024-04-26 17:40:33,45+,Female,North,SQL,Yes,3,Works fine but nothing special for dashboards
+2024-04-26 19:00:55,25-34,Female,Central,Power BI,Yes,,"Fast and powerful, excellent for analysis"
+2024-04-26 20:01:59,45+,Male,South,Excel,Yes,4,"Great tool, very useful for dashboards"
+2024-04-26 20:44:48,35-44,Male,South,Power BI,Yes,,"Love the clear visuals, amazing for reports for dashboards"
+2024-04-26 21:17:38,25-34,Male,West,Excel,Yes,3,It is okay for basic tasks for dashboards
+2024-04-27 08:05:09,35-44,Female,East,Python,Yes,4,"Great tool, very useful for reporting"
+2024-04-27 09:39:34,18-24,Male,West,Power BI,Yes,3,"Decent, I use it sometimes for data cleaning"
+2024-04-27 11:01:32,18-24,Other,South,Python,No,5,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-27 11:07:46,25-34,Female,West,Excel,No,1,"Complicated setup, frustrating at times"
+2024-04-27 11:11:21,35-44,Male,North,R,Yes,4,Super helpful and easy to use for team projects
+2024-04-27 11:19:48,18-24,Female,West,Python,Yes,4,Intuitive and smooth experience for team projects
+2024-04-27 11:24:06,25-34,Male,North,Python,Yes,3,"Decent, I use it sometimes"
+2024-04-27 11:30:45,25-34,Male,East,Excel,No,4,"Love the clear visuals, amazing for reports for reporting"
+2024-04-27 12:01:59,18-24,Female,East,Python,No,5,"Fast and powerful, excellent for analysis"
+2024-04-27 12:11:28,35-44,Male,West,Power BI,Yes,4,Super helpful and easy to use for reporting
+2024-04-27 12:58:36,18-24,Female,East,Tableau,Yes,4,"Love the clear visuals, amazing for reports"
+2024-04-27 14:11:43,35-44,Male,Central,Python,Yes,3,It is okay for basic tasks for data cleaning
+2024-04-27 14:38:28,35-44,Female,West,Power BI,Yes,3,"Decent, I use it sometimes for reporting"
+2024-04-27 14:59:00,18-24,Male,West,SQL,Yes,5,Super helpful and easy to use for data cleaning
+2024-04-27 15:20:49,45+,Female,West,R,Yes,4,"Love the clear visuals, amazing for reports for team projects"
+2024-04-27 15:26:41,35-44,Male,Central,R,Yes,4,"Great tool, very useful for reporting"
+2024-04-27 15:40:44,25-34,Female,South,Excel,Yes,5,"Love the clear visuals, amazing for reports"
+2024-04-27 15:45:42,18-24,Male,West,Tableau,Yes,5,Intuitive and smooth experience
+2024-04-27 15:49:11,25-34,Female,East,Power BI,Yes,4,"Great tool, very useful"
+2024-04-27 16:01:36,25-34,Female,South,Power BI,No,4,Super helpful and easy to use for team projects
+2024-04-27 16:36:47,25-34,Male,South,Python,No,4,"Great tool, very useful for data cleaning"
+2024-04-27 16:45:54,35-44,Female,West,Excel,No,3,"Decent, I use it sometimes for data cleaning"
+2024-04-27 17:44:32,25-34,Female,South,Python,No,3,Average experience overall for dashboards
+2024-04-27 18:10:01,18-24,Male,West,Python,No,3,Works fine but nothing special
+2024-04-27 18:57:47,35-44,Female,West,Excel,Yes,4,"Great tool, very useful"
+2024-04-27 18:58:12,45+,Male,West,Tableau,No,3,Average experience overall
+2024-04-27 19:34:18,35-44,Male,East,excel ,Yes,4,
+2024-04-27 19:45:32,25-34,,Central,Python,Yes,5,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-27 21:45:40,25-34,Male,South,Power BI,Yes,4,"Love the clear visuals, amazing for reports"
+2024-04-28 10:49:25,45+,Other,South,Python,Yes,4,"Great tool, very useful"
+2024-04-28 11:17:57,35-44,Female,Central,Excel,Yes,3,"Decent, I use it sometimes for team projects"
+2024-04-28 11:58:17,18-24,Male,South,Power BI,No,3,Average experience overall for data cleaning
+2024-04-28 12:00:49,18-24,Male,Central,Excel,No,4,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-28 12:25:38,18-24,Male,Central,Tableau,Yes,5,
+2024-04-28 13:08:40,25-34,Male,West,Excel,No,,Works fine but nothing special for team projects
+2024-04-28 13:25:24,25-34,Female,South,Power BI,Yes,4,"Fast and powerful, excellent for analysis for team projects"
+2024-04-28 13:50:01,25-34,Male,West,Excel,no,4,"Fast and powerful, excellent for analysis for reporting"
+2024-04-28 14:17:31,35-44,Male,North,Excel,Yes,4,Super helpful and easy to use for data cleaning
+2024-04-28 14:17:31,35-44,Male,North,Excel,Yes,4,Super helpful and easy to use for data cleaning
+2024-04-28 15:05:21,18-24,Male,Central,Excel,Yes,5,Intuitive and smooth experience for dashboards
+2024-04-28 15:10:47,18-24,Male,Central,Power-BI,Yes,5,Super helpful and easy to use for data cleaning
+2024-04-28 16:20:26,45+,Other,South,Power BI,Yes,4,"Love the clear visuals, amazing for reports for team projects"
+2024-04-28 16:56:39,18-24,Female,South,POWER BI,Yes,2,"Complicated setup, frustrating at times for team projects"
+2024-04-28 17:15:16,18-24,Male,West,Excel,Yes,4,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-28 17:15:43,45+,Male,East,Power BI,Yes,4,"Love the clear visuals, amazing for reports"
+2024-04-28 18:38:42,18-24,Female,North,Power BI,Yes,5,Intuitive and smooth experience for team projects
+2024-04-28 19:27:48,35-44,Male,South,Python,No,3,"Decent, I use it sometimes for dashboards"
+2024-04-28 19:30:36,25-34,Male,West,Python,Yes,3,"Decent, I use it sometimes for team projects"
+2024-04-28 19:50:11,18-24,Female,East,Power BI,Yes,5,"Fast and powerful, excellent for analysis for reporting"
+2024-04-28 20:32:24,18-24,Female,East,Excel,No,3,It is okay for basic tasks
+2024-04-28 21:32:05,18-24,Female,Central,Excel,Yes,3,"Decent, I use it sometimes for reporting"
+2024-04-28 21:37:53,35-44,Male,West,SQL,Yes,3,It is okay for basic tasks
+2024-04-28 21:46:24,45+,Female,South,SQL,No,4,"Great tool, very useful for reporting"
+2024-04-29 08:20:48,18-24,Female,West,Python,Yes,5,Super helpful and easy to use
+2024-04-29 09:31:36,25-34,Male,North,PYTHON,Yes,4,"Love the clear visuals, amazing for reports"
+2024-04-29 10:13:39,25-34,Male,South,Python,Yes,4,"Great tool, very useful for reporting"
+2024-04-29 11:07:35,35-44,Female,West,Tableau,Yes,5,"Great tool, very useful for data cleaning"
+2024-04-29 11:24:15,35-44,Female,South,SQL,No,3,It is okay for basic tasks for dashboards
+2024-04-29 11:39:35,18-24,Male,West,Excel,No,3,It is okay for basic tasks for reporting
+2024-04-29 11:48:00,35-44,Female,West,Tableau,Yes,4,Intuitive and smooth experience for reporting
+2024-04-29 12:03:59,18-24,Female,,Python,No,3,Average experience overall for team projects
+2024-04-29 12:06:26,18-24,Male,Central,Python,Yes,5,Super helpful and easy to use for dashboards
+2024-04-29 13:47:25,25-34,Male,North,Excel,Yes,3,Average experience overall for data cleaning
+2024-04-29 14:31:06,25-34,Male,South,Python,Yes,,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-29 15:24:34,25-34,Male,North,Tableau,Yes,3,It is okay for basic tasks for data cleaning
+2024-04-29 16:21:56,45+,Male,South,Excel,Yes,2,"Poor documentation, hard to use for data cleaning"
+2024-04-29 16:51:21,18-24,Male,South,Excel,Yes,4,"Fast and powerful, excellent for analysis for team projects"
+2024-04-29 17:55:01,35-44,Male,North,Python,No,3,It is okay for basic tasks for team projects
+2024-04-29 18:14:21,25-34,Female,South,SQL,Yes,2,"Complicated setup, frustrating at times for reporting"
+2024-04-29 18:14:21,25-34,Female,South,SQL,Yes,2,"Complicated setup, frustrating at times for reporting"
+2024-04-29 18:29:05,35-44,Male,West,Tableau,Yes,4,Super helpful and easy to use
+2024-04-29 19:23:32,18-24,Female,South,Excel,No,3,Works fine but nothing special for reporting
+2024-04-29 19:55:22,25-34,Male,West,Power BI,No,3,Average experience overall
+2024-04-29 20:03:55,35-44,Male,West,Tableau,Yes,5,Intuitive and smooth experience for dashboards
+2024-04-29 20:57:49,25-34,Male,North,Python,Yes,5,"Great tool, very useful for dashboards"
+2024-04-29 21:19:21,18-24,Male,South,Python,Yes,5,"Fast and powerful, excellent for analysis for dashboards"
+2024-04-29 21:25:30,25-34,Male,Central,Excel,Yes,4,Intuitive and smooth experience
+2024-04-30 08:09:01,35-44,Male,West,Power BI,Yes,5,"Fast and powerful, excellent for analysis for team projects"
+2024-04-30 09:43:17,18-24,Male,South,R,Yes,3,It is okay for basic tasks
+2024-04-30 11:03:46,25-34,Female,Central,SQL,Yes,4,"Fast and powerful, excellent for analysis for team projects"
+2024-04-30 11:08:06,35-44,Male,South,powerbi,Yes,5,Super helpful and easy to use
+2024-04-30 11:09:26,25-34,Male,Central, python ,Yes,4,"Love the clear visuals, amazing for reports for data cleaning"
+2024-04-30 11:11:20,35-44,Female,South,Excel,Yes,3,Works fine but nothing special for data cleaning
+2024-04-30 11:54:06,18-24,Female,North,excel ,No,2,"Complicated setup, frustrating at times for data cleaning"
+2024-04-30 12:31:08,18-24,Male,South,Python,Yes,4,Super helpful and easy to use
+2024-04-30 12:44:30,45+,Male,West,SQL,Yes,4,Super helpful and easy to use
+2024-04-30 13:34:52,25-34,Female,East,Excel,Yes,4,"Great tool, very useful for reporting"
+2024-04-30 13:38:23,45+,,Central,Python,Yes,4,Intuitive and smooth experience for team projects
+2024-04-30 14:00:25,18-24,Female,West,Tableau,Yes,3,"Decent, I use it sometimes for reporting"
+2024-04-30 14:46:32,35-44,Male,Central,Python,Yes,5,"Love the clear visuals, amazing for reports"
+2024-04-30 15:00:30,35-44,Female,South,Power BI,Yes,4,Intuitive and smooth experience
+2024-04-30 15:53:08,25-34,Male,,Excel,Yes,5,"Love the clear visuals, amazing for reports for team projects"
+2024-04-30 15:53:08,25-34,Male,,Excel,Yes,5,"Love the clear visuals, amazing for reports for team projects"
+2024-04-30 16:19:58,18-24,Female,Central,Python,No,5,"Great tool, very useful for data cleaning"
+2024-04-30 16:19:58,18-24,Female,Central,Python,No,5,"Great tool, very useful for data cleaning"
+2024-04-30 16:26:13,35-44,Male,South,Power BI,Yes,3,Works fine but nothing special
+2024-04-30 17:09:11,25-34,Other,South,Python,Yes,5,Super helpful and easy to use
+2024-04-30 17:51:23,45+,Male,West,Excel,Yes,4,Super helpful and easy to use
+2024-04-30 19:12:17,35-44,Male,South,Excel,Yes,3,"Decent, I use it sometimes for reporting"
+2024-04-30 19:16:41,25-34,Male,South,Excel,Yes,3,Average experience overall for data cleaning
+2024-04-30 19:54:12,35-44,Male,North,Python,Yes,5,"Love the clear visuals, amazing for reports"
+2024-04-30 20:47:45,18-24,Male,West,Excel,Yes,4,Intuitive and smooth experience
+2024-04-30 20:52:17,25-34,Male,East,SQL,Y,3,Works fine but nothing special
+2024-04-30 20:52:17,25-34,Male,East,SQL,Y,3,Works fine but nothing special
+2024-04-30 21:32:44,35-44,Female,East,Tableau,Yes,3,It is okay for basic tasks for data cleaning
+2024-04-30 21:38:21,18-24,Male,East,Power BI,No,4,"Fast and powerful, excellent for analysis"
+2024-04-30 21:48:52,25-34,,Central,Python,No,3,It is okay for basic tasks
